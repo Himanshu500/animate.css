@@ -1,7 +1,7 @@
 @keyframes lightSpeedInLeft {
   from {
     transform: translate3d(-100%, 0, 0) skewX(30deg);
-    opacity: 0;
+    opacity: 1;
   }
 
   60% {
@@ -9,7 +9,7 @@
     opacity: 1;
   }
 
-  80% {
+  76% {
     transform: skewX(5deg);
   }
 
